@@ -1,0 +1,21 @@
+.label {
+  color: black;
+  font-size: large;
+  padding-top: 30px;
+}
+
+.input {
+  color: black;
+  width: 50%;
+  margin-top: 30px;
+  border-style: solid;
+  border-bottom-width: 2px;
+  border-color: grey;
+}
+
+.search {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
